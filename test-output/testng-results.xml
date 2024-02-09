@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T08:33:01 IST" name="Default suite" finished-at="2024-02-09T08:34:12 IST" duration-ms="70816">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T08:33:01 IST" name="Default test" finished-at="2024-02-09T08:34:12 IST" duration-ms="70816">
+      <class name="demos.regDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:01 IST" name="setUp" finished-at="2024-02-09T08:33:08 IST" duration-ms="7008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:08 IST" name="search" data-provider="test-data" finished-at="2024-02-09T08:33:15 IST" duration-ms="6284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testFirstname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testLastname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testyoganand@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8801636401]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[testyoganand]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[testyoganand]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:15 IST" name="tearDown" finished-at="2024-02-09T08:33:15 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:15 IST" name="setUp" finished-at="2024-02-09T08:33:17 IST" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:17 IST" name="search" data-provider="test-data" finished-at="2024-02-09T08:33:23 IST" duration-ms="6318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testFname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testLname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testbheema@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9988776655]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[testbheema]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[testbheema]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:23 IST" name="tearDown" finished-at="2024-02-09T08:33:24 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:24 IST" name="setUp" finished-at="2024-02-09T08:33:27 IST" duration-ms="3362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:27 IST" name="search" data-provider="test-data" finished-at="2024-02-09T08:33:33 IST" duration-ms="6291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testFirstname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testLastname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testyoganand@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8801636401]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[testyoganand]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[testyoganand]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:33 IST" name="tearDown" finished-at="2024-02-09T08:33:34 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:34 IST" name="setUp" finished-at="2024-02-09T08:33:36 IST" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:36 IST" name="search" data-provider="test-data" finished-at="2024-02-09T08:33:42 IST" duration-ms="6271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testFname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testLname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testbheema@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9988776655]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[testbheema]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[testbheema]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:42 IST" name="tearDown" finished-at="2024-02-09T08:33:50 IST" duration-ms="7815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:50 IST" name="setUp" finished-at="2024-02-09T08:33:52 IST" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:52 IST" name="search" data-provider="test-data" finished-at="2024-02-09T08:33:58 IST" duration-ms="6062" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testFirstname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testLastname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testyoganand@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8801636401]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[testyoganand]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[testyoganand]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demos.regDemo@55634720]" started-at="2024-02-09T08:33:58 IST" name="tearDown" finished-at="2024-02-09T08:34:12 IST" duration-ms="14084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demos.regDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
